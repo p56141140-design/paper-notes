@@ -1,0 +1,6 @@
+# 論文 PDF 只放本機，不上傳
+*.pdf
+_inbox/*
+!_inbox/README.md
+.DS_Store
+Thumbs.db
